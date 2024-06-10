@@ -1,6 +1,2 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
 redis:7.0.11
---platform linux/amd redis:7.0.11
 
